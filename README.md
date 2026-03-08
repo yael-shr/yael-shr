@@ -20,12 +20,12 @@ I enjoy solving algorithmic challenges and working with modern development tools
 ## 🚀 Key Projects:
 
 * [**Library Management System**](https://github.com/yael-shr/LibraryProject)
-  A comprehensive library management system featuring a Node.js/SQL backend and an Angular frontend.
-  The system supports full CRUD operations, book lending management, and database integration.
+  Full-stack system including Node.js/SQL backend and Angular frontend.
 
-* [**Python CLI Book Manager**](https://github.com/yael-shr/python-Book-Manager)
-  A Command Line Interface (CLI) tool for book management, built with Python and SQLite.
+* [**Smart Bag Dispenser System**](https://github.com/yael-shr/Smart-Bag-System)
+  An automated industrial bag dispenser designed to reduce plastic waste through smart sensing and real-time monitoring.
+  Features a dual-MCU architecture (Arduino Uno & Pro Micro), modular C++ classes, and real-time TFT data display.
 
 ## 🔗 Connect with me:
 - GitHub: [yael-shr](https://github.com/yael-shr)
-- Gmail: [yael-shr](yael216220@gmail.com)
+- Gmail: [yael216220@gmail.com](yael216220@gmail.com)
