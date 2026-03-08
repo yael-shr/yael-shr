@@ -8,6 +8,7 @@ I enjoy solving algorithmic challenges and working with modern development tools
 # My Skills:
 
 ![My Skills](https://skillicons.dev/icons?i=cpp,c,python,cs,java,nodejs)
+---
 ![My Skills](https://skillicons.dev/icons?i=mongodb,js,html,css,docker,git,postman,linux)
 ---
 
@@ -22,3 +23,4 @@ I enjoy solving algorithmic challenges and working with modern development tools
 
 ## 🔗 Connect with me:
 - GitHub: [yael-shr](https://github.com/yael-shr)
+- Gmail: [yael-shr](yael216220@gmail.com)
