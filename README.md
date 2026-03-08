@@ -5,12 +5,16 @@
 I am a Software Development student specializing in Full-Stack development, with a focus on backend architecture, databases, and building scalable interfaces.
 I enjoy solving algorithmic challenges and working with modern development tools to build complex systems.
 
-# My Skills:
+## 🛠 Tech Stack
 
-![My Skills](https://skillicons.dev/icons?i=cpp,c,python,cs,java,nodejs)
+### Core Languages
+![Core Languages](https://skillicons.dev/icons?i=cpp,c,python,cs,java)
 
+### Web & Backend
+![Web & Backend](https://skillicons.dev/icons?i=nodejs,mongodb,js,html,css)
 
-![My Skills](https://skillicons.dev/icons?i=mongodb,js,html,css,docker,git,postman,linux)
+### Systems & Tools
+![Systems & Tools](https://skillicons.dev/icons?i=docker,git,pycharm,postman,linux)
 ---
 
 ## 🚀 Key Projects:
