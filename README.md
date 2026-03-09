@@ -14,7 +14,7 @@ I enjoy solving algorithmic challenges and working with modern development tools
 ![Web & Backend](https://skillicons.dev/icons?i=nodejs,mongodb,js,html,css)
 
 ### Systems & Tools
-![Systems & Tools](https://skillicons.dev/icons?i=docker,git,pycharm,postman,linux)
+![Systems & Tools](https://skillicons.dev/icons?i=docker,git,pycharm,postman,linux,arduino)
 ---
 
 ## 🚀 Key Projects:
@@ -34,4 +34,4 @@ I enjoy solving algorithmic challenges and working with modern development tools
 
 ## 📈 My GitHub Activity
 
-![Profile Summary Cards](https://github.com/yael-shr/yael-shr/blob/main/profile-summary-cards-output/profile-details.svg)
+![Profile Summary Cards](https://github.com/yael-shr/yael-shr/raw/main/profile-summary-cards-output/profile-details.svg)
