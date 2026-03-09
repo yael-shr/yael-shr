@@ -29,3 +29,9 @@ I enjoy solving algorithmic challenges and working with modern development tools
 ## 🔗 Connect with me:
 - GitHub: [yael-shr](https://github.com/yael-shr)
 - Gmail: [yael216220@gmail.com](yael216220@gmail.com)
+
+
+
+## 📈 My GitHub Activity
+
+![Profile Summary Cards](https://github.com/yael-shr/yael-shr/blob/main/profile-summary-cards-output/profile-details.svg)
