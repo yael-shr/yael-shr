@@ -34,4 +34,4 @@ I enjoy solving algorithmic challenges and working with modern development tools
 
 ## 📈 My GitHub Activity
 
-![Activity Radar](https://raw.githubusercontent.com/yael-shr/yael-shr/main/profile-summary-card-output/github/0-profile-details.svg)
+![Activity Radar](https://raw.githubusercontent.com/yael-shr/yael-shr/main/profile-summary-card-output/city_lights/0-profile-details.svg)
