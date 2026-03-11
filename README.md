@@ -1,7 +1,9 @@
-# I'm yael shraga
+<h1 align="center">   I'm yael shraga</h1>
 
-![Profile Views](https://komarev.com/ghpvc/?username=yael-shr&style=flat)
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yael-shr&style=flat" alt="Profile Views">
+</p>
 I am a Software Development student specializing in Full-Stack development, with a focus on backend architecture, databases, and building scalable interfaces.
 I enjoy solving algorithmic challenges and working with modern development tools to build complex systems.
 
