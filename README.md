@@ -13,10 +13,13 @@ I enjoy solving algorithmic challenges and working with modern development tools
 ![Core Languages](https://skillicons.dev/icons?i=cpp,c,python,cs,java)
 
 ### Web & Backend
-![Web & Backend](https://skillicons.dev/icons?i=nodejs,mongodb,js,html,css)
+![Web & Backend](https://skillicons.dev/icons?i=nodejs,mongodb,js,html,css,angular,ts)
+
+### AI & Data Science
+![AI & Data Science](https://skillicons.dev/icons?i=py,opencv,pytorch,tensorflow,sklearn)
 
 ### Systems & Tools
-![Systems & Tools](https://skillicons.dev/icons?i=docker,git,pycharm,postman,linux,arduino)
+![Systems & Tools](https://skillicons.dev/icons?i=docker,git,idea,pycharm,postman,linux,arduino)
 ---
 
 ## 🚀 Key Projects:
