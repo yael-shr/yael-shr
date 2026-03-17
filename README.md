@@ -16,7 +16,7 @@ I enjoy solving algorithmic challenges and working with modern development tools
 ![Web & Backend](https://skillicons.dev/icons?i=nodejs,mongodb,js,html,css,angular,ts)
 
 ### AI & Data Science
-![AI & Data Science](https://skillicons.dev/icons?i=py,opencv,pytorch,tensorflow,sklearn)
+![AI & Data Science](https://skillicons.dev/icons?i=opencv,pytorch,tensorflow,sklearn)
 
 ### Systems & Tools
 ![Systems & Tools](https://skillicons.dev/icons?i=docker,git,idea,pycharm,postman,linux,arduino)
