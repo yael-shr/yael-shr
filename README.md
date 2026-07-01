@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yael Shraga</h1>
 
 <h3 align="center">
-Computer Science Student | Systems & C/C++ Developer | Open Source Contributor
+Computer Science Student | Systems Programming | Embedded Systems | C/C++ | Open Source Contributor
 </h3>
 
 <p align="center">
@@ -49,34 +49,38 @@ I enjoy solving algorithmic challenges, designing efficient software architectur
 
 ### ♻️ Smart Bag Dispenser System
 
-Automated industrial bag dispenser designed to reduce plastic waste through smart sensing and real-time monitoring.
+Developed an embedded smart bag dispensing system featuring sensor-based automation, real-time monitoring, and resource optimization.
 
 **Tech:** C++, Arduino, Embedded Systems
 
-🔗 https://github.com/yael-shr/Smart-Bag-System
+🔗 [Smart-Bag-System](https://github.com/yael-shr/Smart-Bag-System)
 
 ### 🤖 Financial AI Systems
-Two ML-based systems: text classification pipeline and an AI agent for structured financial data processing.
+Developed machine learning and AI systems for financial text classification and structured financial data processing.
 
 **Focus:** NLP, SVM Classification, ML Pipelines, System Design
 
-🔗 https://github.com/yael-shr/Financial-AI-Agent-System
+🔗 [Financial-AI-Systems](https://github.com/yael-shr/Financial-AI-Agent-System)
 
 ### 📍 TravelSystem
 
-Real-time student location monitoring system with live tracking, teacher and parent interfaces, and geofencing alerts.
+Developed a real-time location monitoring system with live tracking, geofencing alerts, and role-based interfaces.
 
 **Tech:** Angular, .NET, SQL Server, Google Maps API
 
-🔗 https://github.com/yael-shr/TravelSystem
+🔗 [TravelSystem](https://github.com/yael-shr/TravelSystem)
 
 ---
 
 ## 🌟 Open Source
 
-* Contributed bug fixes and improvements to open-source projects
-* Experience with debugging, code reviews, pull requests, and systems development
+- Contributed bug fixes and improvements to open-source projects.
+- Experienced with debugging, code reviews, pull requests, and collaborative software development workflows.
 
+### 🏆 Open Source Contributions
+
+- Intel Auto-Round – Bug fixes and code improvements
+- Microsoft STL – Feature and issue analysis
 ---
 
 ## 📫 Contact
