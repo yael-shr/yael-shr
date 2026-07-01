@@ -12,9 +12,9 @@ Computer Science Student | Systems & C/C++ Developer | Open Source Contributor
 
 ## 👩‍💻 About Me
 
-Computer Science student passionate about software engineering, systems programming, and embedded systems.
+Computer Science student with a strong interest in software engineering, systems programming, embedded systems, and artificial intelligence.
 
-I enjoy solving algorithmic challenges, designing efficient software architectures, and building reliable systems using modern development tools.
+I enjoy solving algorithmic challenges, designing efficient software architectures, and building reliable and high-performance systems using modern development tools and technologies.
 
 **Areas of Interest:**
 
