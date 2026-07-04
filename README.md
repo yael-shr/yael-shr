@@ -79,15 +79,14 @@ Developed a real-time location monitoring system with live tracking, geofencing 
 
 ### 🏆 Open Source Contributions
 
-- Intel Auto-Round – Bug fixes and code improvements
-- Microsoft STL – Feature and issue analysis
+* Intel Auto-Round – Contributed bug fixes, refactoring, and code quality improvements in performance-sensitive software components. 
+* Microsoft Azure DevOps Tasks – Resolved a GitHub App authentication compatibility issue by implementing a backward-compatible token retrieval mechanism.
+
 ---
 
 ## 📫 Contact
 
 📧 **Email:** [yael216220@gmail.com](mailto:yael216220@gmail.com)
-
-🔗 **GitHub:** https://github.com/yael-shr
 
 ---
 
